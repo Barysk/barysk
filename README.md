@@ -24,7 +24,7 @@ And here's a quick overview of some cool stuff I made:
 
 ## My Configurations
 
-* [auto_arch_config](https://github.com/Barysk/auto_arch_config) [ Shell ] - A simple script that configures a clean Arch Linux-Zen installation.
+* [arch_druid](https://github.com/Barysk/arch_druid) [ Shell ] - A simple script that configures a clean Arch Linux-Zen installation.
 * [NeoVim](https://github.com/Barysk/nvim) [ Lua ]
 * [Hyprland](https://github.com/Barysk/dot_hyprland) [ CSS / Shell / Odin ]
 * [DWM](https://github.com/Barysk/dot_dwm) [ C / Shell ] - Archived, I don't use X11 anymore
