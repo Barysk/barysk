@@ -8,6 +8,7 @@ And here's a quick overview of some cool stuff I made:
 
 * [Reiha (レイハ)](https://github.com/Barysk/reiha) [ Rust ] - A minimalistic tool for making presentations using plain text file.
 * [testownik_cli (テステル)](https://github.com/Barysk/testownik_cli) [ Odin ] - An app for solving tests created by PWr students.
+* [tools](https://github.com/Barysk/tools) [ Odin ] - Small handy tools.
 
 ## Demo projects
 
@@ -24,7 +25,7 @@ And here's a quick overview of some cool stuff I made:
 
 ## My Configurations
 
-* [arch_druid](https://github.com/Barysk/arch_druid) [ Shell ] - A simple script that configures a clean Arch Linux-Zen installation.
+* [arch_druid](https://github.com/Barysk/arch_druid) [ Bash ] - A simple script that configures a clean Arch Linux-Zen installation.
 * [NeoVim](https://github.com/Barysk/nvim) [ Lua ]
-* [Hyprland](https://github.com/Barysk/dot_hyprland) [ CSS / Shell / Odin ]
-* [DWM](https://github.com/Barysk/dot_dwm) [ C / Shell ] - Archived, I don't use X11 anymore
+* [Hyprland](https://github.com/Barysk/dot_hyprland) [ CSS / Bash / Odin ]
+* [DWM](https://github.com/Barysk/dot_dwm) [ C / Bash ] - Archived, I don't use X11 anymore
