@@ -20,12 +20,13 @@ And here's a quick overview of some cool stuff I made:
 
 ![Work In Progress Projects](./assets/wip.png)
 
-* ***Access denied***
-* ***Access denied***
+* ***Access denied*** [ C# ]
+* ***Access denied*** [ Odin ]
 
 ![My Configurations](./assets/configs.png)
 
 * [arch_druid](https://github.com/Barysk/arch_druid) [ Bash ] - A simple script that configures a clean Arch Linux-Zen installation.
 * [NeoVim](https://github.com/Barysk/nvim) [ Lua ]
+* [River](https://github.com/Barysk/dot_river) [ Bash / CSS / Odin ]
 * [Hyprland](https://github.com/Barysk/dot_hyprland) [ CSS / Bash / Odin ]
-* [DWM](https://github.com/Barysk/dot_dwm) [ C / Bash ] - Archived, I don't use X11 anymore
+* [DWM](https://github.com/Barysk/dot_dwm) [ C / Bash ]
