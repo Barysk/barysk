@@ -29,10 +29,10 @@ Current:
 
 * [arch_druid](https://github.com/Barysk/arch_druid) [ Bash ] - A simple script that configures a clean Arch Linux-Zen installation.
 * [NeoVim](https://github.com/Barysk/nvim) [ Lua ]
+* [Hyprland](https://github.com/Barysk/dot_hyprland) [ CSS / Bash / Odin ]
 * [DWL](https://github.com/Barysk/dot_dwl) [ C / Bash ]
 
-Those likely won't be updated anymore.:
+Those likely won't be updated anymore:
   
-* [Hyprland](https://github.com/Barysk/dot_hyprland) [ CSS / Bash / Odin ]
 * [River](https://github.com/Barysk/dot_river) [ Bash / CSS / Odin ]
 * [DWM](https://github.com/Barysk/dot_dwm) [ C / Bash ]
