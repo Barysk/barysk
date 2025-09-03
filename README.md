@@ -29,7 +29,7 @@ Current:
 
 * [arch_druid](https://github.com/Barysk/arch_druid) [ Bash ] - A simple script that configures a clean Arch Linux-Zen installation.
 * [NeoVim](https://github.com/Barysk/nvim) [ Lua ]
-* [qwerty-seine](https://github.com/Barysk/qwerty_seine) [ xkb ] - A qwerty layout with sane symbol placement for better programmer experience.
+* [seine_layout](https://github.com/Barysk/seine_layout) [ xkb / Shell ] - A qwerty and dvorak layouts with sane symbol placement for better programmer experience.
 * [Hyprland](https://github.com/Barysk/dot_hyprland) [ CSS / Bash / Odin ]
 
 Those likely won't be updated anymore:
