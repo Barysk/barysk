@@ -20,8 +20,8 @@ And here's a quick overview of some cool stuff I made:
 
 ![Work In Progress Projects](./assets/wip.png)
 
-* ***Access denied*** [ C# ]
-* ***Access denied*** [ Odin ]
+* ***Access denied*** [ C# / ASP.NET ]
+* ***Access denied*** [ Odin / GLSL ]
 
 ![My Configurations](./assets/configs.png)
 
