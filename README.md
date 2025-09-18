@@ -20,8 +20,8 @@ And here's a quick overview of some cool stuff I made:
 
 ![Work In Progress Projects](./assets/wip.png)
 
-* ***Access denied*** [ C# / ASP.NET ]
-* ***Access denied*** [ Odin / GLSL ]
+* ***Access denied*** [ Odin / GLSL ] - 1700+ loc, estimated demo alpha release 2025/11/15 
+* ***Access denied*** [ C# / ASP.NET ] - details are not available
 
 ![My Configurations](./assets/configs.png)
 
