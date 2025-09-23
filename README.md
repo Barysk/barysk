@@ -12,7 +12,7 @@ And here's a quick overview of some cool stuff I made:
 
 ![Demo Projects](./assets/demo.png)
 
-* [SSFv2](https://github.com/Barysk/SSFv2) [ C++ ] - A remake of the SSFv1 game. But much more polished. Made to git gud at C++.
+* [SSFv2](https://github.com/Barysk/SSFv2) [ C++ ] - A remake of the SSFv1 game. I reviewed it recently, it was scary.
 * [Noster: Hope](https://github.com/Barysk/noster_hope) [ GDScript ] - Multiplayer game, made for my engineering degree.
 * [Castlevania 1986](https://github.com/Barysk/castlevania_1986_godot) [ GDScript ] - Project made during Game Design course, and is a recreation of the first stage of the 1986 Castlevania game.
 * [SSFv0](https://github.com/Barysk/SSFv0) [ Python ] - Small project, made during Operating Systems course, to learn more about multithreading.
@@ -20,7 +20,7 @@ And here's a quick overview of some cool stuff I made:
 
 ![Work In Progress Projects](./assets/wip.png)
 
-* ***Access denied*** [ Odin / GLSL ] - 1900+ loc, 100+ commits, estimated demo alpha release 2025/11/15 
+* ***Access denied*** [ Odin / GLSL ] - 2000+ loc, 100+ commits, estimated demo alpha release 2025/11/15 
 * ***Access denied*** [ C# / ASP.NET ] - details are not available
 
 ![My Configurations](./assets/configs.png)
