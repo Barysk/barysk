@@ -20,7 +20,7 @@ And here's a quick overview of some cool stuff I made:
 
 ![Work In Progress Projects](./assets/wip.png)
 
-* ***Access denied*** [ Odin / GLSL ] - 2500+ loc, 100+ commits, estimated demo alpha release 2025/11/15 
+* ***Access denied*** [ Odin / GLSL ] - 3000+ loc, 100+ commits, estimated demo alpha release 2025/12/30 
 * ***Access denied*** [ C# / ASP.NET ] - details are not available
 
 ![My Configurations](./assets/configs.png)
@@ -28,7 +28,8 @@ And here's a quick overview of some cool stuff I made:
 Current:
 
 * [arch_druid](https://github.com/Barysk/arch_druid) [ Bash ] - A simple script that configures a clean Arch Linux-Zen installation.
-* [NeoVim](https://github.com/Barysk/nvim) [ Lua ]
+* [NeoVim Poporu Config](https://github.com/Barysk/nvim) [ Lua ]
+* [NeoVim Deboru Colorscheme](https://github.com/Barysk/nvim_deboru_colorscheme) [Lua]
 * [seine_layout](https://github.com/Barysk/seine_layout) [ xkb / Shell ] - A qwerty and dvorak layouts with sane symbol placement for better programmer experience.
 * [Hyprland](https://github.com/Barysk/dot_hyprland) [ CSS / Bash / Odin ]
 
