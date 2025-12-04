@@ -20,7 +20,7 @@ And here's a quick overview of some cool stuff I made:
 
 ![Work In Progress Projects](./assets/wip.png)
 
-* ***Access denied*** [ Odin / GLSL ] - 3000+ loc, 100+ commits, estimated demo alpha release 2025/12/30 
+* ***Access denied*** [ Odin / GLSL ] - 3000+ loc, 100+ commits, estimated demo alpha release [after my Master's]
 * ***Access denied*** [ C# / ASP.NET ] - details are not available
 
 ![My Configurations](./assets/configs.png)
@@ -31,10 +31,10 @@ Current:
 * [NeoVim Poporu Config](https://github.com/Barysk/nvim) [ Lua ]
 * [NeoVim Deboru Colorscheme](https://github.com/Barysk/nvim_deboru_colorscheme) [Lua]
 * [seine_layout](https://github.com/Barysk/seine_layout) [ xkb / Shell ] - A qwerty and dvorak layouts with sane symbol placement for better programmer experience.
+* [DWM](https://github.com/Barysk/dot_dwm) [ C / Bash ]
 * [Hyprland](https://github.com/Barysk/dot_hyprland) [ CSS / Bash / Odin ]
 
 Those likely won't be updated anymore:
 
 * [DWL](https://github.com/Barysk/dot_dwl) [ C / Bash ]
 * [River](https://github.com/Barysk/dot_river) [ Bash / CSS / Odin ]
-* [DWM](https://github.com/Barysk/dot_dwm) [ C / Bash ]
