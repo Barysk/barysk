@@ -4,7 +4,7 @@ Hi, for more info about me, please visit my webpage [Boris's Webpage](https://ba
 
 And here's a quick overview of some cool stuff I made:
 
-![My Cool Software](./assets/soft.png)
+![My Software](./assets/soft.png)
 
 * [Reiha (レイハ)](https://github.com/Barysk/reiha) [ Rust ] - A minimalistic tool for making presentations using plain text file.
 * [testownik_cli (テステル)](https://github.com/Barysk/testownik_cli) [ Odin ] - An app for solving tests created by PWr students.
@@ -12,6 +12,7 @@ And here's a quick overview of some cool stuff I made:
 
 ![Demo Projects](./assets/demo.png)
 
+* [EarthShift](https://github.com/Barysk/EarthShift) [ Odin / Raylib ] - Game prototype that was made during the ``Artificial Intelligence Methods in Game Design'' class. The game itself will continue it's development.
 * [SSFv2](https://github.com/Barysk/SSFv2) [ C++ ] - A remake of the SSFv1 game. I reviewed it recently, it was scary.
 * [Noster: Hope](https://github.com/Barysk/noster_hope) [ GDScript ] - Multiplayer game, made for my engineering degree.
 * [Castlevania 1986](https://github.com/Barysk/castlevania_1986_godot) [ GDScript ] - Project made during Game Design course, and is a recreation of the first stage of the 1986 Castlevania game.
@@ -20,21 +21,21 @@ And here's a quick overview of some cool stuff I made:
 
 ![Work In Progress Projects](./assets/wip.png)
 
-* ***Access denied*** [ Odin / GLSL ] - 3000+ loc, 100+ commits, estimated demo alpha release [after my Master's]
-* ***Access denied*** [ C# / ASP.NET ] - details are not available
+* ***Access denied*** [ Odin / GLSL ] - An open-sourced (once done) bullet-hell focused 2d/3d game engine. 
+* ***Access denied*** [ C# / ASP.NET ] - details are not available.
 
 ![My Configurations](./assets/configs.png)
 
 Current:
 
-* [arch_druid](https://github.com/Barysk/arch_druid) [ Bash ] - A simple script that configures a clean Arch Linux-Zen installation.
+* [archdruid](https://github.com/Barysk/archdruid) [ Bash ] - A simple script that configures a clean Arch Linux-Zen installation.
 * [NeoVim Poporu Config](https://github.com/Barysk/nvim) [ Lua ]
 * [NeoVim Deboru Colorscheme](https://github.com/Barysk/nvim_deboru_colorscheme) [Lua]
 * [seine_layout](https://github.com/Barysk/seine_layout) [ xkb / Shell ] - A qwerty and dvorak layouts with sane symbol placement for better programmer experience.
-* [DWM](https://github.com/Barysk/dot_dwm) [ C / Bash ]
-* [Hyprland](https://github.com/Barysk/dot_hyprland) [ CSS / Bash / Odin ]
+* [Hyprland](https://github.com/Barysk/dot_hyprland) [ Lua / CSS / Bash ]
 
 Those likely won't be updated anymore:
 
+* [DWM](https://github.com/Barysk/dot_dwm) [ C / Bash ]
 * [DWL](https://github.com/Barysk/dot_dwl) [ C / Bash ]
 * [River](https://github.com/Barysk/dot_river) [ Bash / CSS / Odin ]
