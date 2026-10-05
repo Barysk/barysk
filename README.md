@@ -12,7 +12,7 @@ And here's a quick overview of some cool stuff I made:
 * [EarthShift](https://github.com/Barysk/EarthShift) [ Odin / Raylib ] - Game prototype that was made during the ``Artificial Intelligence Methods in Game Design'' class. The game itself will continue it's development.
 * [Noster: Hope](https://github.com/Barysk/noster_hope) [ GDScript ] - Multiplayer game, made for my engineering degree.
 * [Castlevania 1986](https://github.com/Barysk/castlevania_1986_godot) [ GDScript ] - Project made during Game Design course, and is a recreation of the first stage of the 1986 Castlevania game.
-* * [SSFv2](https://github.com/Barysk/SSFv2) [ C++ ] - A small remake of the SSFv1 game.
+* [SSFv2](https://github.com/Barysk/SSFv2) [ C++ ] - A small remake of the SSFv1 game.
 * [SSFv0](https://github.com/Barysk/SSFv0) [ Python ] - Small project, made during Operating Systems course, to learn more about multithreading.
 * [SSFv1](https://github.com/Barysk/SSFv1) [ GDScript ] - I wanted to make my first game, I made it.
 
